@@ -2,18 +2,15 @@
 
 ## Dev Notes
 
-* Didn't use any other extra library except Github GraphQL API.
+* Used Github GraphQL API(https://docs.github.com/en/graphql).
 
 ### How to run app & test
 
-* After extract zip file, you need to open console and get into directory of root.
-  And run below commands
-  npm install
-  npm start
+* Download by zip or use git clonse
+* npm install
+* npm start
 
 #### Future Improvements
-
-Feel free to elaborate on how you would improve any of the following topics 
 
 * Code Structuring:
   This is very simple one component app, so nothing special in Code Structuring.

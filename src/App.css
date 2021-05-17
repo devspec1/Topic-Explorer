@@ -1,0 +1,21 @@
+.main-section {
+  color: white;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.current-topic-section{
+  min-height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+@media(max-width: 576px){
+  .current-topic-section{
+    min-height: unset;
+  }
+}
